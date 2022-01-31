@@ -3,7 +3,7 @@
 - 🖍️ I work as a designer & digital artist
 - 👀 I’m interested in inovation and entrepreneurship
 - 🌱 I’m currently learning PHP, Wordpress and Unity Engine
-- 💞️ I’m looking to collaborate as a Game Designer and Artist
+- 💞️ I’m looking to collaborate as an Artist, Sound and Game Designer
 - 📫 Search " oioirubi " to find me on internet!
 
 <!---
