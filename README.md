@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oioirubi
+- 👋 Hi, I’m Ruby Rosa
 - 🖍️ I work as a designer & digital artist
 - 👀 I’m interested in inovation and entrepreneurship
 - 🌱 I’m currently learning Swift and C#
