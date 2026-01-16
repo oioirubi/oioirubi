@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oioirubi
 - 🖍️ I work as a designer & digital artist
 - 👀 I’m interested in inovation and entrepreneurship
-- 🌱 I’m currently learning C# and Dart (Flutter)
+- 🌱 I’m currently learning Swift and C#
 - 👾 I'm studying Game Development at PUCPR
 
 <!---
